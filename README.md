@@ -1,5 +1,5 @@
 # new_listing
-The script polls major exchanges like Binance and Coinbase for listing announcement. The idea is that coinbase and Binance listing *ANNOUNCEMENTS* usually leads to temporary pumps on the tokens of interest.
+The script polls major exchanges like Binance and Coinbase for listing announcement. The idea is that coinbase and Binance *LISTING ANNOUNCEMENTS* usually leads to temporary pumps on the tokens of interest.
 
 
 # FLOW
